@@ -49,10 +49,6 @@ Created by [@manishkprj](https://github.com/manishkprj) - feel free to contact m
 This project is open source and available without restrictions.
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
